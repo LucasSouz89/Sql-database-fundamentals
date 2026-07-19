@@ -27,7 +27,7 @@ This study is part of my technical transition/expansion to solidify my backend s
 - [x] **08. Managing the Database** — Database-level administration basics.
 - [x] **09. Subqueries** — Nested queries and correlated subqueries.
 - [x] **10. Views** — Creating and using views.
-- [ ] **11. Essential Functions** — Additional core SQL functions *(in progress)*.
+- [x] **11. Essential Functions** — Additional core SQL functions *(in progress)*.
 - [ ] **12. Database** — Advanced database management topics.
 - [ ] **13. Users** — User creation, permissions, and access control.
 - [ ] **14. Wrapping Up** — Course conclusion and final review.
