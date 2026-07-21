@@ -1,0 +1,7 @@
+#Criar DATABASE
+CREATE DATABASE teste;
+
+#Apagar DATABASE
+DROP DATABASE teste;
+
+CREATE DATABASE carros;
